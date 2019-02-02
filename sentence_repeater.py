@@ -1,7 +1,7 @@
 def string_repeater():
     "Functions repeats a string 10 times"
         
-    repeat_statement = "I will never spam my friends again."
+    repeat_statement = "I will never spam my friends again!"
     
     for i in range(10):
         print(i+1,"-", repeat_statement)
